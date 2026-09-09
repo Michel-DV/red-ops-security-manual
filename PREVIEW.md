@@ -1,5 +1,8 @@
 # RED OPS Security Manual — Public Preview
 
+**Created and published by [@Michel-DV](https://github.com/Michel-DV).**  
+Official project: **https://github.com/Michel-DV/red-ops-security-manual**
+
 This repository is intentionally a **small public preview** of the RED OPS Security Manual. It is designed to show the structure, editorial direction, and assessment workflow without publishing complete operational chapters, full field cards, or the private source/build tree.
 
 ## Assessment workflow
@@ -68,6 +71,10 @@ The public repository does **not** contain:
 - the customer Complete Edition package.
 
 That separation is deliberate. GitHub is the official project home and preview surface; the Complete Edition remains a separately distributed commercial product.
+
+## Authorship and provenance
+
+The commercial PDFs carry **Michel-DV** on the publication/license page and back cover, and use **Michel-DV** as the embedded PDF author metadata. Official release packages include SHA-256 checksums so buyers can verify the files they received against the publisher's release set.
 
 ## Authorized use
 
