@@ -47,7 +47,7 @@ The public repository is the official home for the project, release information,
 
 RED OPS Security Manual is published under the **Michel-DV** author identity. The Complete Edition and companion PDFs carry the author/publisher credit on the publication notice and back cover, and embed **Michel-DV** in the PDF document metadata. Release packages also include SHA-256 integrity manifests.
 
-See **[AUTHENTICITY.md](AUTHENTICITY.md)** for the official provenance record and verification details.
+See **[AUTHENTICITY.md](AUTHENTICITY.md)** for the official provenance record, **[RELEASE_MANIFEST.md](RELEASE_MANIFEST.md)** for the v1.0.0 publication manifest, and **[CITATION.cff](CITATION.cff)** for citation metadata.
 
 ## Version
 
