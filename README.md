@@ -2,26 +2,29 @@
 
 **Practical penetration testing & red team field reference for authorized security testing.**
 
+**Created and published by [@Michel-DV](https://github.com/Michel-DV).**  
+Official project home: **https://github.com/Michel-DV/red-ops-security-manual**
+
 RED OPS is a connected field manual built around the workflow of a real security assessment: scope, recon, enumeration, web discovery, post-exploitation, Active Directory, credential testing, wireless auditing, hand-offs, and reporting.
 
 > **Authorized use only.** This project is intended for scoped penetration tests, controlled labs, CTFs, owned infrastructure, and security training. It does not grant authorization to test third-party systems.
-
-![RED OPS Security Manual cover](assets/red-ops-cover.svg)
 
 ## Public preview
 
 This repository intentionally contains a **limited public preview**, not the full manual.
 
-The preview shows the assessment workflow, Complete Edition structure, field-reference design system, and project scope without publishing a complete operational chapter or the full field-card set.
+The preview shows the visual system, field workflow, table of contents, chapter design, methodology, and representative guide structure without publishing a complete operational chapter or full field-card set.
 
-**[Open the public preview](PREVIEW.md)**
+See **[PREVIEW.md](PREVIEW.md)** for the controlled public sampler.
+
+![RED OPS Security Manual cover](assets/red-ops-cover.svg)
 
 ## Complete Edition
 
-The separately distributed **RED OPS Security Manual v1.0.0 — Complete Edition** contains:
+The separately distributed **RED OPS Security Manual v1.0.0 - Complete Edition** contains:
 
 - **107-page** connected field manual
-- **7 complete standalone guides**
+- **7 complete guides**
 - **28-page RED OPS Field Cards**
 - OSINT & external recon
 - Nmap / network recon
@@ -36,7 +39,11 @@ The Complete Edition is a commercial product and is **not stored in this public 
 
 ## Why this repository is intentionally small
 
-The public repository is the official home for the project, release information, preview material, and future announcements. The full editorial source tree, build system, technical reviews, complete chapters, field-card set, and customer package remain private.
+The public repository is the official home for the project, release information, preview material, and future announcements. The full editorial source tree, build system, technical reviews, complete chapters, and customer package remain private.
+
+## Authorship and provenance
+
+RED OPS Security Manual is published under the **Michel-DV** author identity. The Complete Edition and companion PDFs carry the author/publisher credit on the publication notice and back cover, and embed **Michel-DV** in the PDF document metadata. Release packages also include SHA-256 integrity manifests.
 
 ## Version
 
@@ -54,5 +61,6 @@ Security tools and command-line interfaces change over time. Version-sensitive s
 ---
 
 **RED OPS Security Manual**  
+Created and published by **Michel-DV**  
 Field Reference Series / Security Manual  
 For authorized security testing only.
