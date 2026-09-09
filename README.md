@@ -13,11 +13,13 @@ RED OPS is a connected field manual built around the workflow of a real security
 
 This repository intentionally contains a **limited public preview**, not the full manual.
 
-The preview shows the visual system, field workflow, table of contents, chapter design, methodology, and representative guide structure without publishing a complete operational chapter or full field-card set.
+The preview shows the visual system, field workflow, methodology, and product structure without publishing a complete operational chapter or full field-card set.
 
 See **[PREVIEW.md](PREVIEW.md)** for the controlled public sampler.
 
-![RED OPS Security Manual cover](assets/red-ops-cover.svg)
+![RED OPS Security Manual product teaser](assets/red-ops-product-teaser.svg)
+
+The longer PDF preview and the Complete Edition are distributed separately so the public repository remains a project home and showcase rather than a substitute for the commercial manual.
 
 ## Complete Edition
 
@@ -44,6 +46,8 @@ The public repository is the official home for the project, release information,
 ## Authorship and provenance
 
 RED OPS Security Manual is published under the **Michel-DV** author identity. The Complete Edition and companion PDFs carry the author/publisher credit on the publication notice and back cover, and embed **Michel-DV** in the PDF document metadata. Release packages also include SHA-256 integrity manifests.
+
+See **[AUTHENTICITY.md](AUTHENTICITY.md)** for the official provenance record and verification details.
 
 ## Version
 
