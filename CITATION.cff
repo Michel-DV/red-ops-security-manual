@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you reference RED OPS Security Manual, please cite the official project and author identity."
+title: "RED OPS Security Manual"
+type: manual
+authors:
+  - name: "Michel-DV"
+version: "1.0.0"
+date-released: 2026-09-09
+url: "https://github.com/Michel-DV/red-ops-security-manual"
+repository-code: "https://github.com/Michel-DV/red-ops-security-manual"
+abstract: "A practical penetration testing and red team field reference for authorized security testing."
+keywords:
+  - penetration testing
+  - red team
+  - cybersecurity
+  - security assessment
+  - field manual
