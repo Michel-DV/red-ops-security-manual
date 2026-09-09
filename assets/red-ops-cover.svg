@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+  <title id="title">RED OPS Security Manual</title>
+  <desc id="desc">Cover artwork for the RED OPS Security Manual field reference series.</desc>
+  <rect width="1200" height="1600" fill="#111317"/>
+  <rect x="0" y="0" width="1200" height="26" fill="#9d1730"/>
+  <rect x="88" y="170" width="8" height="920" fill="#9d1730"/>
+  <g opacity="0.12" stroke="#e7e2da" stroke-width="2" fill="none">
+    <path d="M760 190 H1070 V500 H890 V690 H1090"/>
+    <path d="M820 260 H1010 V420 H940 V590 H1120"/>
+    <circle cx="1070" cy="500" r="10" fill="#e7e2da"/>
+    <circle cx="890" cy="690" r="10" fill="#e7e2da"/>
+    <circle cx="1010" cy="420" r="10" fill="#e7e2da"/>
+  </g>
+  <text x="130" y="245" fill="#b4213d" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing="8">FIELD REFERENCE SERIES</text>
+  <text x="130" y="475" fill="#f2eee8" font-family="Arial, Helvetica, sans-serif" font-size="182" font-weight="900" letter-spacing="4">RED</text>
+  <text x="130" y="650" fill="#b4213d" font-family="Arial, Helvetica, sans-serif" font-size="182" font-weight="900" letter-spacing="4">OPS</text>
+  <text x="137" y="760" fill="#f2eee8" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="7">SECURITY MANUAL</text>
+  <rect x="137" y="820" width="650" height="5" fill="#9d1730"/>
+  <text x="137" y="900" fill="#b9b5ae" font-family="Arial, Helvetica, sans-serif" font-size="29" letter-spacing="2">PRACTICAL PENETRATION TESTING &amp;</text>
+  <text x="137" y="945" fill="#b9b5ae" font-family="Arial, Helvetica, sans-serif" font-size="29" letter-spacing="2">RED TEAM FIELD REFERENCE</text>
+  <text x="137" y="1090" fill="#f2eee8" font-family="Arial, Helvetica, sans-serif" font-size="25" letter-spacing="3">RECON  /  NETWORK  /  WEB  /  POST-EX</text>
+  <text x="137" y="1132" fill="#f2eee8" font-family="Arial, Helvetica, sans-serif" font-size="25" letter-spacing="3">ACTIVE DIRECTORY  /  CREDENTIALS  /  WIRELESS</text>
+  <text x="137" y="1355" fill="#8f8b85" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="3">FOR AUTHORIZED SECURITY TESTING ONLY</text>
+  <text x="137" y="1410" fill="#b4213d" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="3">VERSION 1.0.0</text>
+  <text x="1055" y="1440" fill="#f2eee8" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="700">01</text>
+  <rect x="0" y="1538" width="1200" height="62" fill="#9d1730"/>
+</svg>
