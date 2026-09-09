@@ -1,0 +1,1 @@
+The binary PDF in this directory is the only public PDF intended for GitHub. Do not publish the Complete Edition, standalone complete guides, Field Cards, owner/source archive, or customer package in this repository.
